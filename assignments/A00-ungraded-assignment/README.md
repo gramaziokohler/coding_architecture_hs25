@@ -8,6 +8,8 @@ The calculator should accept two input numbers and an arithmetic operation from 
 
 Optionally, introduce an error handling in case a number is divided by zero or if the operation name is invalid.
 
+The starting point for your assignment is this [Grasshopper definition](00_calculator_hs25.gh)
+
 ### Challenge 01
 
 Create more user-friendly messages, that not only display the result but also explain the operation being performed.
