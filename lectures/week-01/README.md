@@ -138,7 +138,6 @@ See [here](/roadmap/README.md) for more information about the **Roadmap: becomin
 
 At its core, software can be understood as a tool for transforming data. You start with input data—whether numerical values, text, or other forms of information—apply a set of operations or processes to it, and produce output data. Programming software is the task of writing that set of operations that will perform the transformation. This transformation is fundamental to all programming tasks.
 
-
 ![What is Code](./images/what-is-programming.jpg)
 
 Consider Excel as a simple analogy: you might have a set of numbers to which you add another set or calculate their deviation from an average. The result is a new set of numbers—your output. What occurred in between is a data transformation.
