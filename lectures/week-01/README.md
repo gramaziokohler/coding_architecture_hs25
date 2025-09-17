@@ -107,7 +107,7 @@ LINK: [Moodle: Tutor Selection](https://moodle-app2.let.ethz.ch/mod/choicegroup/
 
 “Coding Architecture” is a dynamic and interactive course with a strong practical hands-on approach. Hence, it is strongly recommended that you attend and actively participate in the in-person course sessions. Furthermore the course sessions incorporate step by step tutorials that are solved together in class. Understanding each step explained in these tutorial sessions is essential for successfully completing the assignments on your own. During the session you will have the possibility to ask questions and engage with tutors which will maximize your learning process throughout the course.
 
-See [here](https://moodle-app2.let.ethz.ch/course/section.php?id=223757) for details about the grading process and your requirements.
+See [here](https://moodle-app2.let.ethz.ch/mod/page/view.php?id=1241669) for details about the grading process and your requirements.
 
 ### Assignments
 
