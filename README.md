@@ -88,7 +88,7 @@ ISBN : 9788895315300
 
 
 ### Other
-- [EPFL Course: AR-327 - Introductino to Computational Architecture](https://ibois-epfl.github.io/AR-327-Introduction-to-computational-architecture/)
+- [EPFL Course: AR-327 - Introduction to Computational Architecture](https://ibois-epfl.github.io/AR-327-Introduction-to-computational-architecture/)
 - [Stackoverflow](https://stackoverflow.com)
 
 
