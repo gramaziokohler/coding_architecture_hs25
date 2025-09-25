@@ -42,6 +42,10 @@ We’ll conclude with a feedback session where you can ask questions and discuss
     </p>
 </div>
 
+## Syncing your files
+
+To synchronize the content of this week's lecture to your computer, use VS Code and click the "Sync" button in the bottom left corner. 
+
 ## Roadmap: How to become a computational Designer
 
 See [here](/roadmap/README.md) for more information about the **Roadmap: becoming a computational designer**, including an explainer video.
@@ -451,6 +455,7 @@ for x in range(10):
 
 The following files are useful to follow the lecture content:
 
+- [Starting point for exercises](./examples/00_for_exercises_hs25.gh)
 - [Lists and Loops](./examples/01_lists_and_loops_hs25.gh)
 - [Sets and Duplicates](./examples/02_sets_and_duplicates_hs25.gh)
 - [Strings](./examples/03_strings_hs25.gh)
