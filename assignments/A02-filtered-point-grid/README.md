@@ -29,6 +29,10 @@ subtractive sculpting workflow. This gives you control over whether you're
 "building up" geometry by including points or "carving out" geometry by
 excluding them.
 
+![Brep Filter](./images/filter_geometric.png)
+<!-- ![Volmesh](./images/VolMesh_ix_iy_iz.png)
+![Volmesh2](./images/VolMesh_x_y_z.png) -->
+
 #### Details
 
 - Create a class, for example, BrepFilter.
