@@ -32,7 +32,7 @@ Consider factors like plot size, shape, and local context when making your choic
 
  * Area: approx. 39'300 m2
  * Large area! Think about the balance between built and open spaces. Multiple buildings: low-rise with courtyards, high-rise buildings etc. or alternative ideas to the stadium are welcome.
- * [Site project reference](https://projekt-ensemble.ch/einblicke-ins-projekt/stadtentwicklung-ist-ein-kollektives-experiment-im-gesellschaftlichen-labor/)
+ * [Site project reference](https://carusostjohn.com/projects/hardturm-areal-zurich/)
  * [Link to Map](https://maps.app.goo.gl/hJKiF5C4hsGWo2ug6)
  * [Download plot file](https://github.com/gramaziokohler/coding_architecture_hs25/raw/main/assignments/A04-final-project/plots/hardturm.zip)
 
