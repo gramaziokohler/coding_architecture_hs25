@@ -85,7 +85,10 @@ Guidelines:
 - Optionally 2 or 3 additional images of the project
 - Use Landscape orientation
 
-See [sample poster for reference](A04-sample-poster.pdf). This is just an example, feel free to design your own layout and style.
+The poster design and layout is entirely up to you. If you need inspiration, here is a sample layout you can follow but it is perfectly fine to create your own design: 
+- [Final Project Poster Sample (PDF)](./A04-sample-poster.pdf)
+- [Final Project Poster Sample (InDesign)](./A04-sample-poster-indesign.zip)
+- [Roboto Fonts](./roboto_font.zip)
 
 ### 2. Sculpt your building using a filter
 
